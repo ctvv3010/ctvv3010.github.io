@@ -1,0 +1,97 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tam.abc" resolutions="1x" timestamp="1494331072281">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="4092512452" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="3849126041" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="146279342" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="webpro.js" crc="3770351119" ref="index"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index"/>
+    <file name="form_check.php" crc="3841221102" ref="index"/>
+    <file name="form_throttle.php" crc="4048049783" ref="index"/>
+    <file name="form_process.php" crc="3899230280" ref="index"/>
+    <file name="form-u823.php" crc="3818667720" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="tam-business-card_03.gif" crc="211960871" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0177.jpg" crc="4057587908" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="img_1363.jpg" crc="510376978" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1364.jpg" crc="4154248508" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="img_0255-crop-u645.jpg" crc="4083892541" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_9137_14793370740_o-crop-u746.jpg" crc="4036707603" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_9194_14962514966_o-crop-u766.jpg" crc="317373496" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_9206_14798892788_o-crop-u786.jpg" crc="3935394909" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u472.png" crc="237072352" ref="index"/>
+    <file name="u472-r.png" crc="394870025" ref="index"/>
+    <file name="u444.png" crc="3769581616" ref="index"/>
+    <file name="u444-r.png" crc="441501611" ref="index"/>
+    <file name="u457.png" crc="324829664" ref="index"/>
+    <file name="u457-r.png" crc="3758876118" ref="index"/>
+    <file name="u451.png" crc="3962867727" ref="index"/>
+    <file name="u451-r.png" crc="496724745" ref="index"/>
+    <file name="u467.png" crc="229927313" ref="index"/>
+    <file name="u467-r.png" crc="448118335" ref="index"/>
+    <file name="u363-4.png" crc="3993686347" ref="index"/>
+    <file name="u413-4.png" crc="3774120230" ref="index"/>
+    <file name="u579-4.png" crc="72889151" ref="index"/>
+    <file name="u817-4.png" crc="3803740679" ref="index"/>
+    <file name="u875-4.png" crc="4245387224" ref="index"/>
+    <file name="facebook black.png" crc="335789205" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="google plus black.png" crc="180520867" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="youtube black.png" crc="3964569663" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pinterest black.png" crc="3918405863" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-530609x214.svg" crc="4046449438" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 530609x214_poster_.png" crc="430353959" ref="index"/>
+    <file name="pasted-svg-535.svg" crc="4054426514" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 535_poster_.png" crc="3996320777" ref="index"/>
+    <file name="tam pic 2-crop-u566.png" crc="328359271" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u364-10.png" crc="4266987283" ref="index"/>
+    <file name="1494325732_icon-arrow-up-c.svg" crc="231970570" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1494325732_icon-arrow-up-c_poster_.png" crc="3956890033" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4154341199" seo="true" mt="1494308075227" redirect="true"/>
+</manifest>

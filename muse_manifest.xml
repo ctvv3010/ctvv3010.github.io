@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tam.abc" resolutions="1x" timestamp="1494331072281">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tam.abc" resolutions="1x" timestamp="1494333780007">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="4092512452" ref="index"/>
+    <file name="index.css" crc="4238463624" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -26,27 +26,18 @@
     <file name="tam-business-card_03.gif" crc="211960871" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_0177.jpg" crc="4057587908" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="img_1363.jpg" crc="510376978" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_1364.jpg" crc="4154248508" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="img_0255-crop-u645.jpg" crc="4083892541" seo="true" ref="index">
+    <file name="img_0255-crop-u645.jpg" crc="4007414678" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_9137_14793370740_o-crop-u746.jpg" crc="4036707603" seo="true" ref="index">
+    <file name="img_9137_14793370740_o-crop-u746.jpg" crc="4150780828" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_9194_14962514966_o-crop-u766.jpg" crc="317373496" seo="true" ref="index">
+    <file name="img_9194_14962514966_o-crop-u766.jpg" crc="195699567" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_9206_14798892788_o-crop-u786.jpg" crc="3935394909" seo="true" ref="index">
+    <file name="img_9206_14798892788_o-crop-u786.jpg" crc="3885686037" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u472.png" crc="237072352" ref="index"/>
@@ -61,7 +52,6 @@
     <file name="u467-r.png" crc="448118335" ref="index"/>
     <file name="u363-4.png" crc="3993686347" ref="index"/>
     <file name="u413-4.png" crc="3774120230" ref="index"/>
-    <file name="u579-4.png" crc="72889151" ref="index"/>
     <file name="u817-4.png" crc="3803740679" ref="index"/>
     <file name="u875-4.png" crc="4245387224" ref="index"/>
     <file name="facebook black.png" crc="335789205" seo="true" ref="index">
@@ -92,6 +82,16 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="1494325732_icon-arrow-up-c_poster_.png" crc="3956890033" ref="index"/>
+    <file name="u1117-4.png" crc="72889151" ref="index"/>
+    <file name="img_0177-crop-u591.jpg" crc="3952476212" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1363-crop-u685.jpg" crc="4064210066" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1364-crop-u705.jpg" crc="127003315" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4154341199" seo="true" mt="1494308075227" redirect="true"/>
+  <file name="index.html" crc="3843615970" seo="true" mt="1494333773085" redirect="true"/>
 </manifest>

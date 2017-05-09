@@ -9,15 +9,6 @@
       <image:loc>http://tam.abc/images/tam-business-card_03.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tam.abc/images/img_0177.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tam.abc/images/img_1363.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tam.abc/images/img_1364.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://tam.abc/images/img_0255-crop-u645.jpg</image:loc>
     </image:image>
     <image:image>
@@ -52,6 +43,15 @@
     </image:image>
     <image:image>
       <image:loc>http://tam.abc/images/1494325732_icon-arrow-up-c.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tam.abc/images/img_0177-crop-u591.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tam.abc/images/img_1363-crop-u685.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tam.abc/images/img_1364-crop-u705.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

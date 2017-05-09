@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tam.abc" resolutions="1x" timestamp="1494336584313">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ctvv3010.github.io" resolutions="1x" timestamp="1494338074015">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="4160147943" ref="index"/>
+    <file name="index.css" crc="167027123" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -93,5 +93,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4233912789" seo="true" mt="1494336572816" redirect="true"/>
+  <file name="index.html" crc="4069927738" seo="true" mt="1494338052131" redirect="true"/>
 </manifest>
